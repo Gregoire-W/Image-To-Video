@@ -17,7 +17,7 @@ This project automates video generation using an image-to-video AI model. It wor
 ## 🖼️ Example  
 #### 🐈 Let's start with a cat and a simple prompt:  
 "It's a cat, make it move"    
-![alt text](./imgs/chat.jpeg)   
+<img src="./imgs/chat.jpeg" alt="alt text" width="300" height=250 />  
 <video width="320" height="240" controls>
   <source src="./imgs/generation_chat.mp4" type="video/mp4">
 </video> 
