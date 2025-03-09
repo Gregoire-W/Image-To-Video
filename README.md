@@ -15,16 +15,20 @@ This project automates video generation using an image-to-video AI model. It wor
 ---
 
 ## 🖼️ Example  
-Here’s an example of animating a cat and a dog image:  
-![alt text](./imgs/chat.jpeg)  
-With a simple prompt: "It's a cat, make it move"  
-![alt text](./imgs/generation_chat.mp4)  
+#### 🐈 Let's start with a cat and a simple prompt:  
+"It's a cat, make it move"    
+![alt text](./imgs/chat.jpeg)   
+<video width="320" height="240" controls>
+  <source src="./imgs/generation_chat.mp4" type="video/mp4">
+</video> 
 
 ---
 
-![alt text](./imgs/chien.jpeg)  
-For the dog I didn't even use a prompt:    
-![alt text](./imgs/generation_chien.mp4) 
+#### 🐕 Now with the dog with no prompt
+![alt text](./imgs/chien.jpeg)     
+<video width="320" height="240" controls>
+  <source src="./imgs/generation_chien.mp4" type="video/mp4">
+</video>  
 
 ---
 
