@@ -24,7 +24,7 @@ This project automates video generation using an image-to-video AI model. It wor
 ---
 
 #### 🐕 Now with the dog and no prompt
-<img src="./imgs/chien.jpeg" alt="alt text" width="320" height=450 />    
+<img src="./imgs/chien.jpeg" alt="alt text" width="320" height=450 />  
 #### Result video:  
 <img src="./imgs/generation_chien.gif" alt="alt text" width="300" height=500 />  
 
