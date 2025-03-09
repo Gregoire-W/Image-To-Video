@@ -18,13 +18,13 @@ This project automates video generation using an image-to-video AI model. It wor
 #### 🐈 Let's start with a cat and a simple prompt:  
 "It's a cat, make it move"    
 <img src="./imgs/chat.jpeg" alt="alt text" width="430" height=285 />  
-<video src="./imgs/generation_chat.webpm" width="320" height="240" controls></video>
+<img src="./imgs/generation_chat.gif" alt="alt text" width="300" height=500 />  
 
 ---
 
 #### 🐕 Now with the dog and no prompt
 <img src="./imgs/chien.jpeg" alt="alt text" width="320" height=450 />     
-<video src="./imgs/generation_chien.webm" width="320" height="240" controls></video>
+<img src="./imgs/generation_chat.gif" alt="alt text" width="300" height=500 />  
 
 ---
 
