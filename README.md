@@ -11,6 +11,7 @@ This project automates video generation using an image-to-video AI model. It wor
 - 🎥 Convert images into AI-generated videos.  
 - 🔧 Choose the format and duration of your video.  
 - 📝 Add a custom prompt for each image to refine the generation.  
+- 🖥️ You don't need a powerfull computer since the generation is done with scraping  
 
 ---
 
