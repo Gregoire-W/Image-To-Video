@@ -19,16 +19,16 @@ This project automates video generation using an image-to-video AI model. It wor
 "It's a cat, make it move"    
 <img src="./imgs/chat.jpeg" alt="alt text" width="430" height=285 />  
 <video width="320" height="240" controls>
-  <source src="./imgs/generation_chat.mp4" type="video/mp4">
+  <source src="./imgs/generation_chat.webpm" type="video/webm">
   Votre navigateur ne prend pas en charge les vidéos HTML5.
 </video>
 
 ---
 
-#### 🐕 Now with the dog with no prompt
+#### 🐕 Now with the dog and no prompt
 <img src="./imgs/chien.jpeg" alt="alt text" width="320" height=450 />     
 <video width="320" height="240" controls>
-  <source src="./imgs/generation_chien.mp4" type="video/mp4">
+  <source src="./imgs/generation_chien.webm" type="video/webm">
   Votre navigateur ne prend pas en charge les vidéos HTML5.
 </video 
 
