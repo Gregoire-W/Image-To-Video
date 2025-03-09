@@ -18,7 +18,7 @@ This project automates video generation using an image-to-video AI model. It wor
 #### 🐈 Let's start with a cat and a simple prompt:  
 "It's a cat, make it move"  
 
-<img src="./imgs/chat.jpeg" alt="alt text" width="430" height=285 />
+<img src="./imgs/chat.jpeg" alt="alt text" width="280" height="185" />
 
 #### Result video:  
 
@@ -28,7 +28,7 @@ This project automates video generation using an image-to-video AI model. It wor
 
 #### 🐕 Now with the dog and no prompt  
 
-<img src="./imgs/chien.jpeg" alt="alt text" width="320" height=450 />  
+<img src="./imgs/chien.jpeg" alt="alt text" width="208" height="292" />  
 
 #### Result video:  
 
